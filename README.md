@@ -8,4 +8,6 @@ shiny::runGitHub("jamesadhitthana/UPH_OR_Planes") #Copy this into RStudio consol
 
 * CLICK to see the airplane model!
 
+Screenshot:
+
 ![Screenshot James Airplane Tracker](https://raw.githubusercontent.com/jamesadhitthana/UPH_OR_Planes/master/screenshot%20James%20Adhitthana%20Plane%20Tracker.png)
