@@ -1,13 +1,16 @@
-# UPH_OR_Planes
+# UPH_Riset Operasional_Case 1
 
-shiny::runGitHub("jamesadhitthana/UPH_OR_Planes") #Copy this into RStudio console to run the app
+00000021533
 
-**James Adhitthana's Airplane Tracker (MARCH 31 6:00pm WIB)**
+Instructions : 
 
-* HOVER to see the airlines
+#Copy & Paste in R console
+  shiny::runGitHub("Andreas001/UPH_RO_Case1")
+  
+  Hover to see airplanes
+  
+  Click to see details
 
-* CLICK to see the airplane model!
+Tracks a few airplanes in April 1 16:00 pm 2018
 
-Screenshot:
-
-![Screenshot James Airplane Tracker](https://raw.githubusercontent.com/jamesadhitthana/UPH_OR_Planes/master/screenshot%20James%20Adhitthana%20Plane%20Tracker.png)
+Credit goes to James https://github.com/jamesadhitthana for finding out how to do it
