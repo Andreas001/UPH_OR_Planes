@@ -24,7 +24,7 @@ shinyServer(function(input, output)
 
 #UI
 shinyUI(fluidPage(
-  dashboardHeader(title="Airplane tracker (1 April 16:00 pm)"),
-  sliderInput("planeCount","Amount of planes",10,10,20),
+  dashboardHeader(title = "Airplane tracker in 1 April 18:00 pm"),
+  sliderInput("planeCount","Amount of Planes",1,8,20),
   leafletOutput("mymap")
- ))
+))
