@@ -18,7 +18,7 @@ shinyServer(function(input, output)
 {
   output$mymap <- renderLeaflet({
     leaflet(data = airPlanes[1:input$planeCount,]) %>% addTiles() %>%
-      addMarkers(~Longtitude, ~Latitude, popup = ~as.character(Model), label=~as.character(Airines))
+      addMarkers(~Longtitude, ~Latitude, popup = ~as.character(Model), label=~as.character(Airlines))
 })
 })
 
