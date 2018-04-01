@@ -11,7 +11,7 @@ library(leaflet)
 library(jsonlite)
 
 #categorize
-airPlanes = read.csv(url("https://raw.githubusercontent.com/Andreas001/UPH_RO_Case1/master/AircraftList1April1800.csv"))
+airPlanes = read.csv("AircraftList1April1800.csv")
 
 #Server
 shinyServer(function(input, output) 
