@@ -1,7 +1,5 @@
 # UPH_Riset Operasional_Case 1
 
-00000021533
-
 Instructions : 
 
 #Copy & Paste in R console
