@@ -2,7 +2,7 @@
 
 Instructions : 
 
-#Copy & Paste in R console
+Copy & Paste in R console
   shiny::runGitHub("Andreas001/UPH_RO_Case1")
   
   Hover to see airplanes
